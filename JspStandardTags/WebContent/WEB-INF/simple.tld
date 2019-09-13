@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>  
+    <!DOCTYPE taglib  
+            PUBLIC "-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.2//EN"  
+        "http://java.sun.com/j2ee/dtd/web-jsptaglibrary_1_2.dtd">  
+      
+    <taglib xmlns="http://java.sun.com/JSP/TagLibraryDescriptor">  
+      
+	      <tlib-version>1.0</tlib-version>  
+	      <jsp-version>1.2</jsp-version>  
+	      <short-name>simple</short-name>  
+	      <uri>simpleTags</uri>  
+	      <tag>  
+	      		<name>simple1</name>
+		    	<tag-class>com.bluesky.tarining.SimpleTagTest1</tag-class>
+		    	<body-content>Script less</body-content>
+		    	<description>worst use of custom tags</description>  
+		    </tag>  
+		    <tag>  
+		    	<name>MenuItem</name>
+		    	<tag-class>com.bluesky.tarining.MenuItem</tag-class>
+		    	<body-content>Script less</body-content>
+		    	<description>worst use of custom tags</description>  
+		    	<attribute><name>itemValue</name><rtexprvalue>true</rtexprvalue></attribute>
+		    </tag> 
+		    <tag>  
+		    	<name>Menu</name>
+		    	<tag-class>com.bluesky.tarining.Menu</tag-class>
+		    	<body-content>Script less</body-content>
+		    	<description>worst use of custom tags</description>  
+		    </tag> 
+    </taglib>  
