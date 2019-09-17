@@ -1,4 +1,4 @@
-package com.bluesky.tarining;
+package com.bluesky.training;
 
 import javax.servlet.jsp.tagext.TagSupport;
 

@@ -11,20 +11,20 @@
 	      <uri>simpleTags</uri>  
 	      <tag>  
 	      		<name>simple1</name>
-		    	<tag-class>com.bluesky.tarining.SimpleTagTest1</tag-class>
+		    	<tag-class>com.bluesky.training.SimpleTagTest1</tag-class>
 		    	<body-content>Script less</body-content>
 		    	<description>worst use of custom tags</description>  
 		    </tag>  
 		    <tag>  
 		    	<name>MenuItem</name>
-		    	<tag-class>com.bluesky.tarining.MenuItem</tag-class>
+		    	<tag-class>com.bluesky.training.MenuItem</tag-class>
 		    	<body-content>Script less</body-content>
 		    	<description>worst use of custom tags</description>  
 		    	<attribute><name>itemValue</name><rtexprvalue>true</rtexprvalue></attribute>
 		    </tag> 
 		    <tag>  
 		    	<name>Menu</name>
-		    	<tag-class>com.bluesky.tarining.Menu</tag-class>
+		    	<tag-class>com.bluesky.training.Menu</tag-class>
 		    	<body-content>Script less</body-content>
 		    	<description>worst use of custom tags</description>  
 		    </tag> 

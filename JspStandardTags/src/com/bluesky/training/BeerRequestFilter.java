@@ -1,4 +1,4 @@
-package com.bluesky.tarining;
+package com.bluesky.training;
 
 import java.io.IOException;
 import javax.servlet.*;
